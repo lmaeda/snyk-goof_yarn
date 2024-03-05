@@ -24,7 +24,7 @@
     "errorhandler": "1.2.0",
     "express": "4.12.4",
     "file-type": "^8.1.0",
-    "humanize-ms": "1.0.1",
+    "humanize-ms": "1.2.1",
     "jquery": "^2.2.4",
     "lodash": "4.17.4",
     "method-override": "latest",
