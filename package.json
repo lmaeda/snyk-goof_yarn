@@ -28,7 +28,7 @@
     "jquery": "^2.2.4",
     "lodash": "4.17.4",
     "method-override": "latest",
-    "moment": "2.15.1",
+    "moment": "2.30.1",
     "morgan": "latest",
     "ms": "^0.7.1",
     "optional": "^0.1.3",
